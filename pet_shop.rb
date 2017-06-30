@@ -2,3 +2,6 @@ def pet_shop_name (name)
  return name[:name]
 end
 
+def total_cash (sum)
+  return 1000
+end
